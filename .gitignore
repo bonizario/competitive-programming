@@ -1,0 +1,18 @@
+# VS Code workspace settings
+/.vscode
+
+/algorithms/**/*
+!/algorithms/**/
+!/algorithms/**/*.c
+!/algorithms/**/*.py
+!/algorithms/**/*.cpp
+!/algorithms/**/*.sql
+
+/problems/**/*
+!/problems/**/
+!/problems/**/*.c
+!/problems/**/*.py
+!/problems/**/*.cpp
+!/problems/**/*.sql
+# Code Runner extension tmp file
+tempCodeRunnerFile.cpp
